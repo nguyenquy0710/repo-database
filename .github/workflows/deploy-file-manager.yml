@@ -11,8 +11,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Install PHP
-        run: composer install
-      - name: Build PHP
-        run: php bin/build
+        run: sudo apt install php
+      # - name: Build PHP
+      #   run: php bin/build
       - name: Deploy to gh-pages
         run: git subtree push --prefix public gh-pages master
