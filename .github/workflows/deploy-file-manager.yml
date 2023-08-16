@@ -14,5 +14,7 @@ jobs:
         run: sudo apt install php
       # - name: Build PHP
       #   run: php bin/build
-      - name: Deploy to gh-pages
-        run: git subtree push --prefix public gh-pages master
+      # - name: Deploy to gh-pages
+      #   run: git subtree push --prefix public gh-pages master
+      - name: Run PHP code
+        run: php index.php
