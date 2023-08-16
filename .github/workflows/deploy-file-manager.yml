@@ -1,4 +1,4 @@
-name: Deploy PHP to gh-pages
+name: Deploy PHP to GitHub Pages
 
 on:
   push:
@@ -12,9 +12,7 @@ jobs:
       - uses: actions/checkout@v2
       - name: Install PHP
         run: sudo apt install php
-      # - name: Build PHP
-      #   run: php bin/build
-      # - name: Deploy to gh-pages
-      #   run: git subtree push --prefix public gh-pages master
-      - name: Run PHP code
-        run: php index.php
+      - name: Build PHP
+        run: php bin/build
+      - name: Deploy to GitHub Pages
+        run: gh pages upload --dir public
