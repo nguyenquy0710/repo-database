@@ -13,6 +13,6 @@ jobs:
       - name: Install PHP
         run: sudo apt install php
       - name: Build PHP
-        run: php bin/build
+        run: php index.php
       - name: Deploy to GitHub Pages
         run: gh pages upload --dir public
