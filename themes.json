@@ -1,158 +1,158 @@
 [
-    {
-       "name": "Notus-Svelte",
-       "owner": "creativetimofficial"
-    },
-    {
-       "name": "hagura-sveltekit",
-       "owner": "sharu725"
-    },
-    {
-       "name": "Sveltekit-Mdsvex-Blog",
-       "owner": "mvasigh"
-    },
-    {
-       "name": "Routify-Starter",
-       "owner": "roxiness"
-    },
-    {
-       "name": "Routify-Tailwind",
-       "owner": "lamualfa"
-    },
-    {
-       "name": "elderjs",
-       "owner": "Elderjs"
-    },
-    {
-       "name": "Svelte-Storybook-Tailwind",
-       "owner": "jerriclynsjohn"
-    },
-    {
-       "name": "Sapper-Stunning-Theme",
-       "owner": "apvarun"
-    },
-    {
-       "name": "sveltekit-electron",
-       "owner": "FractalHQ"
-    },
-    {
-       "name": "sveltepress",
-       "owner": "GeopJr"
-    },
-    {
-       "name": "svelte-ts-tailwind-template",
-       "owner": "colinbate"
-    },
-    {
-       "name": "routify-notus",
-       "owner": "azlkiniue"
-    },
-    {
-       "name": "sveltekit-starter",
-       "owner": "navneetsharmaui"
-    },
-    {
-       "name": "sveltekit-blog",
-       "owner": "navneetsharmaui"
-    },
-    {
-       "name": "swyxkit",
-       "owner": "sw-yx"
-    },
-    {
-       "name": "svelte-kit-blog-demo",
-       "owner": "svelteland"
-    },
-    {
-       "name": "directus-sveltekit-blog-starter",
-       "owner": "alteredorange"
-    },
-    {
-       "name": "urara",
-       "owner": "importantimport"
-    },
-    {
-       "name": "svelte-starter",
-       "owner": "the-pudding"
-    },
-    {
-       "name": "felt-template",
-       "owner": "feltcoop"
-    },
-    {
-       "name": "sveltekit-smui-template",
-       "owner": "pham"
-    },
-    {
-       "name": "svelte-kit-ethers-template",
-       "owner": "DecentralisedTech"
-    },
-    {
-       "name": "chola",
-       "owner": "sharu725"
-    },
-    {
-       "name": "svelte-QWER",
-       "owner": "kwchang0831"
-    },
-    {
-       "name": "tablog-svelte",
-       "owner": "lemmon"
-    },
-    {
-       "name": "kit-docs",
-       "owner": "svelteness"
-    },
-    {
-       "name": "svelte-pwa",
-       "owner": "tretapey"
-    },
-    {
-       "name": "enterprise-stack",
-       "owner": "joysofcode"
-    },
-    {
-       "name": "slick-portfolio-svelte",
-       "owner": "RiadhAdrani"
-    },
-    {
-       "name": "sveltekit-landing-daisy",
-       "owner": "engageintellect"
-    },
-    {
-       "name": "sveltekit-lucia-starter",
-       "owner": "qwacko"
-    },
-    {
-       "name": "svelte-notion",
-       "owner": "tiodot"
-    },
-    {
-       "name": "yuyutsu",
-       "owner": "sharu725"
-    },
-    {
-       "name": "salvia-kit",
-       "owner": "salvia-kit"
-    },
-    {
-       "name": "tpl-svelte",
-       "owner": "wappon-28-dev"
-    },
-    {
-       "name": "templatus-inertia",
-       "owner": "templatus"
-    },
-    {
-       "name": "webapp-template",
-       "owner": "usagizmo"
-    },
-    {
-       "name": "portfolio",
-       "owner": "ObserverOfTime"
-    },
-    {
-       "name": "music",
-       "owner": "tguelcan"
-    }
- ]
+   {
+      "name": "Notus-Svelte",
+      "owner": "creativetimofficial"
+   },
+   {
+      "name": "hagura-sveltekit",
+      "owner": "sharu725"
+   },
+   {
+      "name": "Sveltekit-Mdsvex-Blog",
+      "owner": "mvasigh"
+   },
+   {
+      "name": "Routify-Starter",
+      "owner": "roxiness"
+   },
+   {
+      "name": "Routify-Tailwind",
+      "owner": "lamualfa"
+   },
+   {
+      "name": "elderjs",
+      "owner": "Elderjs"
+   },
+   {
+      "name": "Svelte-Storybook-Tailwind",
+      "owner": "jerriclynsjohn"
+   },
+   {
+      "name": "Sapper-Stunning-Theme",
+      "owner": "apvarun"
+   },
+   {
+      "name": "sveltekit-electron",
+      "owner": "FractalHQ"
+   },
+   {
+      "name": "sveltepress",
+      "owner": "GeopJr"
+   },
+   {
+      "name": "svelte-ts-tailwind-template",
+      "owner": "colinbate"
+   },
+   {
+      "name": "routify-notus",
+      "owner": "azlkiniue"
+   },
+   {
+      "name": "sveltekit-starter",
+      "owner": "navneetsharmaui"
+   },
+   {
+      "name": "sveltekit-blog",
+      "owner": "navneetsharmaui"
+   },
+   {
+      "name": "swyxkit",
+      "owner": "sw-yx"
+   },
+   {
+      "name": "svelte-kit-blog-demo",
+      "owner": "svelteland"
+   },
+   {
+      "name": "directus-sveltekit-blog-starter",
+      "owner": "alteredorange"
+   },
+   {
+      "name": "urara",
+      "owner": "importantimport"
+   },
+   {
+      "name": "svelte-starter",
+      "owner": "the-pudding"
+   },
+   {
+      "name": "felt-template",
+      "owner": "feltcoop"
+   },
+   {
+      "name": "sveltekit-smui-template",
+      "owner": "pham"
+   },
+   {
+      "name": "svelte-kit-ethers-template",
+      "owner": "DecentralisedTech"
+   },
+   {
+      "name": "chola",
+      "owner": "sharu725"
+   },
+   {
+      "name": "svelte-QWER",
+      "owner": "kwchang0831"
+   },
+   {
+      "name": "tablog-svelte",
+      "owner": "lemmon"
+   },
+   {
+      "name": "kit-docs",
+      "owner": "svelteness"
+   },
+   {
+      "name": "svelte-pwa",
+      "owner": "tretapey"
+   },
+   {
+      "name": "enterprise-stack",
+      "owner": "joysofcode"
+   },
+   {
+      "name": "slick-portfolio-svelte",
+      "owner": "RiadhAdrani"
+   },
+   {
+      "name": "sveltekit-landing-daisy",
+      "owner": "engageintellect"
+   },
+   {
+      "name": "sveltekit-lucia-starter",
+      "owner": "qwacko"
+   },
+   {
+      "name": "svelte-notion",
+      "owner": "tiodot"
+   },
+   {
+      "name": "yuyutsu",
+      "owner": "sharu725"
+   },
+   {
+      "name": "salvia-kit",
+      "owner": "salvia-kit"
+   },
+   {
+      "name": "tpl-svelte",
+      "owner": "wappon-28-dev"
+   },
+   {
+      "name": "templatus-inertia",
+      "owner": "templatus"
+   },
+   {
+      "name": "webapp-template",
+      "owner": "usagizmo"
+   },
+   {
+      "name": "portfolio",
+      "owner": "ObserverOfTime"
+   },
+   {
+      "name": "music",
+      "owner": "tguelcan"
+   }
+]
